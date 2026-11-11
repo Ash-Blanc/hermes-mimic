@@ -10,3 +10,5 @@ plugin-data/
 
 # generated hand-off artifact
 *.bundle
+config.bat
+node_modules
