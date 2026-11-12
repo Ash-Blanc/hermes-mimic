@@ -1,3 +1,6 @@
+import utils.http_session
+import utils.transport
+import utils.session
 """MIMIC internals: macro data model, selector engine, recorder, compiler, runner, healer.
 
 Nothing in here imports Hermes. The plugin layer (``__init__.py``, ``tools.py``)
